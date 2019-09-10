@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-# Coded by. MiSetya
+# Coded by. Tn.1keh
 # Mau recode? ngotak goblok!
 
 clear
@@ -40,5 +40,5 @@ sh user.sh
 fi
 if [ $pil = '2' ]
 then
-xdg-open https://bercara.com/QKNrZStZ4
+xdg-open https://duit.cc/bI0M
 fi
