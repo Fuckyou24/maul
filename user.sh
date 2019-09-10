@@ -31,7 +31,7 @@ echo "WELCOME"
 sleep 3
 sh ikeh.sh
 else
-echo "Fuck! Silahkan Download User & pass"
+echo "Maaf! Silahkan Download User & pass"
 sleep 3
-sh user.sh
+sh ea.sh
 fi
