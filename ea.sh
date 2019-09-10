@@ -40,5 +40,5 @@ sh user.sh
 fi
 if [ $pil = '2' ]
 then
-xdg-open https://duit.cc/bI0M
+xdg-open https://hokiciki.org/XiK9C
 fi
